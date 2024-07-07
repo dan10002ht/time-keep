@@ -1,0 +1,4 @@
+deepface
+faiss-cpu
+opencv-python 
+json
